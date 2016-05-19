@@ -3,7 +3,7 @@ import Vapor
 let app = Application()
 
 app.get("/") { request in
-	return ""
+	return "Hello Vapor!!"
 }
 
 // Print what link to visit for default port
