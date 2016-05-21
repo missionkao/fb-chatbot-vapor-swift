@@ -4,7 +4,7 @@
     vapor run
 
 ## Guide
-[https://medium.com/@MissionKao/messenger-bot-setup-using-swift-web-server-75ea0f7d3430#.6ravmg2fg](url)
+[https://medium.com/@MissionKao/messenger-bot-setup-using-swift-web-server-75ea0f7d3430#.6ravmg2fg](https://medium.com/@MissionKao/messenger-bot-setup-using-swift-web-server-75ea0f7d3430#.6ravmg2fg)
 
 ## Example
 
