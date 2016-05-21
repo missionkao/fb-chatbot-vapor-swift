@@ -56,23 +56,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "______Target_StructuredData"
-               BuildableName = "StructuredData.dylib"
-               BlueprintName = "StructuredData"
-               ReferencedContainer = "container:VaporApp.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "______Target_JSON"
-               BuildableName = "JSON.dylib"
-               BlueprintName = "JSON"
+               BlueprintIdentifier = "______Target_PureJson"
+               BuildableName = "PureJson.dylib"
+               BlueprintName = "PureJson"
                ReferencedContainer = "container:VaporApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -143,6 +129,20 @@
                BlueprintIdentifier = "______Target_SHA2"
                BuildableName = "SHA2.dylib"
                BlueprintName = "SHA2"
+               ReferencedContainer = "container:VaporApp.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "______Target_StructuredData"
+               BuildableName = "StructuredData.dylib"
+               BlueprintName = "StructuredData"
                ReferencedContainer = "container:VaporApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
